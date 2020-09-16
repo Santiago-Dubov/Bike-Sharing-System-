@@ -1,2 +1,2 @@
 # Bike-Sharing-System-
-In Java a bike sharing system was coded along with a CLUI to create a system that could be implement in a large city to provide bike rentals. 
+In Java a bike sharing system was coded along with a CLUI to create a system that could be implement in a large city to provide bike rentals. Unit testing was used to ensure all modules correctly interacted and design patterns were used to provide adhere to good coding standards. A complete uml class diagram is also included. The zip file represents a Java project which can be opened in Eclipse. 
